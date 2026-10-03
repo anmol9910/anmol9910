@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="1280" height="120" role="img" aria-label="MORE REPOSITORIES">
+<defs><radialGradient id="fglow"><stop offset="0" stop-color="#ffa63d" stop-opacity=".55"/><stop offset=".5" stop-color="#e8601c" stop-opacity=".18"/><stop offset="1" stop-color="#e8601c" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2d98d"/><stop offset=".55" stop-color="#c9a24a"/><stop offset="1" stop-color="#7a5c22"/></linearGradient>
+<linearGradient id="goldH" x1="0" x2="1"><stop offset="0" stop-color="#c9a24a" stop-opacity="0"/><stop offset=".5" stop-color="#f2d98d"/><stop offset="1" stop-color="#c9a24a" stop-opacity="0"/></linearGradient></defs>
+<rect x="60" y="54" width="330" height="2" fill="url(#goldH)" transform="translate(0 0)"/>
+<rect x="890" y="54" width="330" height="2" fill="url(#goldH)"/>
+<text x="640" y="68" text-anchor="middle" font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,'Times New Roman',serif" font-size="38" font-weight="700" letter-spacing="9" fill="url(#gold)">MORE REPOSITORIES</text>
+<text x="640" y="98" text-anchor="middle" font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,'Times New Roman',serif" font-style="italic" font-size="17" fill="#9a8d79">The rest of my public work.</text>
+<g transform="translate(60 54)"><path d="M0,-8 L8,0 L0,8 L-8,0Z" fill="#c9a24a"/></g><g transform="translate(1220 54)"><path d="M0,-8 L8,0 L0,8 L-8,0Z" fill="#c9a24a"/></g>
+<g transform="translate(30 62) scale(0.42)">
+<circle cy="-34" r="62" fill="url(#fglow)"><animate attributeName="opacity" values=".55;.95;.6;.85;.55" dur="1.36s" begin="0s" repeatCount="indefinite"/></circle>
+<path d="M0,0 C-18,-18 -14,-42 0,-76 C14,-42 18,-18 0,0Z" fill="#e8601c" opacity=".92"><animateTransform attributeName="transform" type="scale" values="1 1;.9 1.13;1.07 .93;.95 1.08;1 1" dur="0.80s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M0,0 C-11,-12 -9,-28 0,-52 C9,-28 11,-12 0,0Z" fill="#ffa63d"><animateTransform attributeName="transform" type="scale" values="1 1;1.08 .9;.92 1.12;1 1" dur="0.64s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M0,0 C-5,-7 -4,-16 0,-30 C4,-16 5,-7 0,0Z" fill="#fff1b0"><animateTransform attributeName="transform" type="scale" values="1 1;.85 1.15;1.1 .9;1 1" dur="0.48s" begin="0s" repeatCount="indefinite"/></path>
+</g><g transform="translate(1250 62) scale(0.42)">
+<circle cy="-34" r="62" fill="url(#fglow)"><animate attributeName="opacity" values=".55;.95;.6;.85;.55" dur="1.19s" begin="0.2s" repeatCount="indefinite"/></circle>
+<path d="M0,0 C-18,-18 -14,-42 0,-76 C14,-42 18,-18 0,0Z" fill="#e8601c" opacity=".92"><animateTransform attributeName="transform" type="scale" values="1 1;.9 1.13;1.07 .93;.95 1.08;1 1" dur="0.70s" begin="0.2s" repeatCount="indefinite"/></path>
+<path d="M0,0 C-11,-12 -9,-28 0,-52 C9,-28 11,-12 0,0Z" fill="#ffa63d"><animateTransform attributeName="transform" type="scale" values="1 1;1.08 .9;.92 1.12;1 1" dur="0.56s" begin="0.2s" repeatCount="indefinite"/></path>
+<path d="M0,0 C-5,-7 -4,-16 0,-30 C4,-16 5,-7 0,0Z" fill="#fff1b0"><animateTransform attributeName="transform" type="scale" values="1 1;.85 1.15;1.1 .9;1 1" dur="0.42s" begin="0.2s" repeatCount="indefinite"/></path>
+</g>
+</svg>
